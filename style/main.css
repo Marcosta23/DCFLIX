@@ -37,14 +37,15 @@ header nav a:hover{
 
 .capa-principal{
   font-size: 1rem;
-  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%),url('/image/justiceleague.jpg')no-repeat;
-  
-  height: 25rem;
-  background-size: contain;
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%),url('/image/Liga2.png')no-repeat;
+  background-size: 99%;
+
+  height: 22rem;
+  background-size: corver;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: flex-start;
   
 
 }
